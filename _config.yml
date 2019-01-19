@@ -15,7 +15,7 @@ external-image: false
 picture: assets/images/profile.jpg
 #
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-132362885-1'
+analytics-google: 'UA-132817086-1'
 #
 #twitter_username: jekyllrb
 github_username: yintong-zhou
