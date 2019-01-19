@@ -14,6 +14,6 @@ author: yintong
 
 <div class="side-by-side">
     <div class="toright">
-        <p>Software Developer and a lover of computers hardware. Obviously also a videogamer.</p>
+        <p>Software Developer and a lover of computers hardware. Obviously also a gamer.</p>
     </div>
 </div>
