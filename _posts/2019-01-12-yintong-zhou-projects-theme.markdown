@@ -25,6 +25,6 @@ author: yintong
     </div>
 
     <div class="toright">
-        <p>Empty Now</p>
+        <p>Loading...</p>
     </div>
 </div>
