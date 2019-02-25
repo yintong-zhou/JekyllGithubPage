@@ -12,7 +12,9 @@ My Skills & Study Interests
 - SQL Server & Management Studio
 - ASP.NET
 - HTML
+- CSS
+- SASS(SCSS)
 - Dart
-- GitHub 
+- Git
 
 Other Skills are coming soon...!
