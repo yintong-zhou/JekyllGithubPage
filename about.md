@@ -9,12 +9,11 @@ Obviously also a gamer.
 
 My Skills & Study Interests
 - C# .Net Framework
-- Java
 - SQL Server & Management Studio
 - ASP.NET
 - HTML
 - CSS, SCSS, SASS
-- AngularDart
-- Git
+- Dart
+- GitHub
 
 Other Skills are coming soon...!
